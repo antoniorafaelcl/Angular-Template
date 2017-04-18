@@ -5,5 +5,5 @@ app.controller("homeController",HomeController);
 
 function HomeController (){
     var self = this;
-    self.message = "Pega Filha da Puta";
+    self.message = "Funcionando";
 }
